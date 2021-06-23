@@ -6,4 +6,6 @@ The goal of this project is to determine if there is a relationship between IBU 
 This repo contains the following files:
 Beers.csv, Breweries.csv, FinalPres1.ppt, DDS_Vers6.1.RMD, and DDS_Vers6.1.html.
 
+To view the powerpoint with higher resolution photos, please use the zip file. Otherwise, use the other ppt file uploaded.
+
 
